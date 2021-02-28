@@ -1,0 +1,35 @@
+.team .member .social {
+   
+    margin-top: 10px;
+    font-size: 10px;
+    transition: ease-in-out 0.3s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.team .member .social svg { padding-left: 3px;color:gray;}
+
+.member-img{ padding: 10px;}
+
+.project-info{
+    font-size: 18px;
+    font-weight: 500;
+    color:black;
+}
+
+.image-hero{
+    padding-top: 60px;
+    margin: auto;
+ 
+}
+.dummyDiv{margin-top: 100px;}
+.image-left{
+    border-radius: 15px;
+}
+
+.dummy1 .content{
+    padding-bottom: 20px !important;
+
+}
+
